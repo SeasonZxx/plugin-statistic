@@ -22,8 +22,8 @@ allprojects {
     repositories {
         jcenter()
         maven {
-//            url uri('./repo')
-            url "https://jitpack.io"
+            url uri('./repo')
+//            url "https://jitpack.io"
         }
     }
 }
